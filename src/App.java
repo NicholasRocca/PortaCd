@@ -6,7 +6,7 @@ public class App {
         //torniamo su github e prendioamo il coduice get remo0de add 
         //git add . poi git commit -am ogni volta che facciamo modifiche
         //poi git push --all
-        
+        System.out.println("s");
 
     }
 }
